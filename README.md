@@ -1,4 +1,4 @@
-Go live http://zen-visvesvaraya-d3e3ed.netlify.app/
+Go live https://eloquent-thompson-ee4bbf.netlify.app/
 ![alt text](https://github.com/aantor/usersList-react/blob/main/usersList.PNG?raw=true)
 
 # Getting Started with Create React App
